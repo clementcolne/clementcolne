@@ -18,4 +18,4 @@ I enjoy coding, especially create usefull tools. I mostly develop web projects, 
 - :computer: [clementcolne.com](https://clementcolne.com)
 - :envelope: [Mail](mailto:clement.colne@outlook.com)
 
-In my github, you can find my school projects, and my personal projects. 
+In my github, you can find my school projects, and my personal projects :arrow_down:
