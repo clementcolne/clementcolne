@@ -9,7 +9,7 @@ I'm Clément Colné ! I'm a software engineering student, based in Nancy, France
 - :dog: Dogs are my best friends
 - :sunglasses: I have 8 year expérience as a league of legends player and still gold, so I can promise you my mental is incredibly strong (or i'm a sociopath, I don't know :smiling_imp:)
 
-I enjoy coding, especially create usefull tools. I mostly develop web projects, mainly in PHP (even if I get trashed for that :poop:) but I also like use various technologies like other languages for backend like Java Spring Boot or frontend JavaScript frameworks like Vue.JS.
+I enjoy coding, especially create usefull tools. I mostly develop web projects, mainly in PHP (even if I get trashed for that :poop:) but I also like to use various technologies like other languages for backend like Java Spring Boot or frontend JavaScript frameworks like Vue.JS.
 
 🌱 I’m currently learning [Laravel](https://laravel.com) and [Vue.JS](https://vuejs.org)
 
