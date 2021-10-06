@@ -11,7 +11,7 @@ I'm Clément Colné ! I'm a software engineering student, based in Nancy, France
 
 I enjoy coding, especially create usefull tools. I mostly develop web projects, mainly in PHP (even if I get trashed for that :poop:) but I also like to use various technologies like other languages for backend like Java Spring Boot or frontend JavaScript frameworks like Vue.JS.
 
-🌱 I’m currently learning [Laravel](https://laravel.com) and [Vue.JS](https://vuejs.org)
+🌱 I’m currently learning [Laravel](https://laravel.com), [Angular](https://angular.io) and [NodeJs](https://nodejs.org/en/).
 
 ## Socials :arrow_down:
 - :bird: Twitter [@clementcolne](https://twitter.com/clementcolne)
